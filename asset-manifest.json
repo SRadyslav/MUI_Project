@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/MUI_Project/static/js/main.a0adcecb.js",
+    "static/js/721.2c6d8c66.chunk.js": "/MUI_Project/static/js/721.2c6d8c66.chunk.js",
+    "static/js/855.a5435643.chunk.js": "/MUI_Project/static/js/855.a5435643.chunk.js",
+    "index.html": "/MUI_Project/index.html",
+    "main.a0adcecb.js.map": "/MUI_Project/static/js/main.a0adcecb.js.map",
+    "721.2c6d8c66.chunk.js.map": "/MUI_Project/static/js/721.2c6d8c66.chunk.js.map",
+    "855.a5435643.chunk.js.map": "/MUI_Project/static/js/855.a5435643.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a0adcecb.js"
+  ]
+}
