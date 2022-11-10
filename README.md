@@ -2,6 +2,7 @@
 
 App created to practice with [MUI library](https://mui.com)
 
+Repository is deployed on [GitHubPages](https://sradyslav.github.io/MUI_Project/)
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

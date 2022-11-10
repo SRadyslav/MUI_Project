@@ -5,7 +5,7 @@ import { Rightbar } from './components/Rightbar'
 import { Sidebar } from './components/Sidebar'
 import { Navbar } from './components/Navbar'
 
-const AddPost = React.lazy(()=> import('./components/AddPost'))
+const AddPost = React.lazy(() => import(/* webpackChunkName: "AddPost"*/'./components/AddPost'))
 const App = () => {
     const [mode, setMode] = React.useState("light")
     const darkTheme = createTheme({
