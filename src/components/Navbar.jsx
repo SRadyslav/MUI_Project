@@ -52,12 +52,12 @@ export const Navbar = () => {
           <Badge badgeContent={4} color="error">
             <Notifications />
           </Badge>
-          <Avatar sx={{ width: 30, height: 30 }} src="https://images.prom.ua/858090125_w640_h640_maska-psa.jpg"
+          <Avatar sx={{ width: 30, height: 30, cursor:"pointer"}} src="https://images.prom.ua/858090125_w640_h640_maska-psa.jpg"
             onClick={(e) => setOpen(true)}
           />
         </Icons>
         <UserBox onClick={(e) => setOpen(true)}>
-          <Avatar sx={{ width: 30, height: 30 }} src="https://images.prom.ua/858090125_w640_h640_maska-psa.jpg" />
+          <Avatar sx={{ width: 30, height: 30, cursor:"pointer"}} src="https://images.prom.ua/858090125_w640_h640_maska-psa.jpg" />
           <Typography variant="span">Jack</Typography>
         </UserBox>
       </StyledToolbar>
